@@ -26,7 +26,6 @@ Then write the same functionality in `PHP`.
     * a loop
     * a condition
     * variables
-    
 * Your page has to look exactly the same as the initial JS build.
 
 
