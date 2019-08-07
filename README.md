@@ -1,8 +1,8 @@
-# Startup **`*location*`** | **`*Promotion-name*`**
+# Startup **Genk** | **Easley 1.17**
 
 This repository is the go-to place to find information on any and all of your (educational) activities at BeCode:
 
-* Excercises
+* Exercises
 * Tutorials
 * Important Documents
 * Guidelines
@@ -15,7 +15,7 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 ## Calendar
 
 Add a calendar here for special events that affect the juniors.
-- [Example General]()
+- [Example General](https://calendar.google.com/calendar/embed?src=81u6evmbrf8m97nk0l8ttlrlg0%40group.calendar.google.com&ctz=Europe%2FBrussels)
 - [Example Junior Workshops]()
 
 <br>
@@ -38,8 +38,6 @@ Well... sometimes it's really just in the name. [Here](./important-documents/) y
 ## Main course
 
 The 'main course' will be the largest part of your educational journey at BeCode. It will mostly focus on teaching you the relevant hard & soft skills necessary to become a Junior Web Developer.
-
-<p style='color:#ffff'>This is some red text.</p>
 
 <details>
 <summary style='color:#f03c15'>Click to expand / collapse! (`add everything that your juniors will learn`)</summary>
