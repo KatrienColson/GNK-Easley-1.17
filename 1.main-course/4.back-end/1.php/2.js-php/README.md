@@ -3,7 +3,7 @@
 
 |Challenge Parameters  |Challenge Details              |
 |:---------------------|:------------------------------|
-|Repository Folder     |`javascript-to-php`            |
+|Repository Folder     |`1.javascript-to-php`          |
 |Challenge type        |`learning challenge`           |
 |Duration              |`~2 days`                      |
 |Deadline              |`13/08/2019 8h59`              |
