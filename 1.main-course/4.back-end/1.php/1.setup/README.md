@@ -56,7 +56,10 @@ If this is what you are actually seeing, than congrats, you are up and running w
 Next up is setting up phpmyadmin, try to do this on your own!
 The [PHPMyAdmin guide](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-18-04) explains for the ubuntu users how to set it up and for windows and mac it should be pretty self-explanatory.
 
-Once that is set up, you can continue below...
+You reached the end ! Awesome !
+You deserve a something, here you go
+<img alt="Deadpool unicorn!" src="./resources/unicorn.png" style="max-width:300px"/> 
+
 
 
 ## Getting started
