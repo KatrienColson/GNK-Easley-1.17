@@ -50,7 +50,7 @@ All that needs to be in the file is:
 
 Save that and then go to `localhost` in your browser to open the file.
 This is what you should be seeing:
-![php info example](files/phpinfo.png)
+![php info example](./resources/phpinfo.png)
 
 If this is what you are actually seeing, than congrats, you are up and running with your php server.
 Next up is setting up phpmyadmin, try to do this on your own!
