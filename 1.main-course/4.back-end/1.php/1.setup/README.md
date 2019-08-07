@@ -7,12 +7,14 @@ This is basically a:
 - ***P*** HP Server.
 
 To install this, follow [this](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04) guide. 
-If you choose to use anything else then the following options:
+If you choose to use anything else then the following options, <br/>
+then I won't help you if you're stuck with issues pertaining to the server itself.
+
 - **Ubuntu:** [LAMP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04) Stack
 - **Windows:** [WAMP](http://www.wampserver.com/en/) Stack
 - **Mac OS X:** Well, you can use [XAMPP](https://www.apachefriends.org/index.html) (propably your best option), but I don't provide support for Mac OS users.
 
-Then I won't help you if you're stuck with issues pertaining to the server itself.
+
 
 ## Lamp Stack explained
 ### Apache
