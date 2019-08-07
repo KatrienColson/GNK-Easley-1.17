@@ -58,7 +58,7 @@ The [PHPMyAdmin guide](https://www.digitalocean.com/community/tutorials/how-to-i
 
 You reached the end ! Awesome !
 You deserve a something, here you go
-<img alt="Deadpool unicorn!" src="./resources/unicorn.png" style="max-width:300px"/> 
+<img alt="Deadpool unicorn!" src="./resources/unicorn.png" style="width:300px;"/> 
 
 
 
