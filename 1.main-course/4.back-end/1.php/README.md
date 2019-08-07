@@ -15,7 +15,7 @@ Create a repository called `learning-php`, in the repository, should be:
 - A folder called `exercises`
 - An `index.html`
 - An `assets` folder
- 
+
 You can leave these empty for now, until we start with the exercises.
 
 
