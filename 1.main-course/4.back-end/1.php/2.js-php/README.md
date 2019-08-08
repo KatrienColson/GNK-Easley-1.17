@@ -1,6 +1,4 @@
 # Challenge: Javascript To PHP
-
-
 |Challenge Parameters  |Challenge Details              |
 |:---------------------|:------------------------------|
 |Repository Folder     |`1.javascript-to-php`          |
@@ -12,11 +10,9 @@
 
 
 ## Exercise
-
-I will supply an `index.html` and a `styles.css` file, open these in your browser / on your server.
-Once opened, read and try to understand what the javascript code does / see what happens when you disable it.
-Then write the same functionality in `PHP`.
-
+Download [`index.html`](./resources/index.html) and [`styles.css`](./resources/styles.css), open these in your browser / on your server.
+Once opened, read and try to understand what the javascript code does, then write the same functionality in `PHP`.
+Don't try to copy line by line and convert the syntax, this kind of conversion required some out of the box thinking ! ;)
 
 
 ### Rules of the game
@@ -26,11 +22,14 @@ Then write the same functionality in `PHP`.
     * a loop
     * a condition
     * variables
+    * a function
+    * a random number generator
 * Your page has to look exactly the same as the initial JS build.
+* The different components have to be procedurally generated in the same way
+* You can change the global variables (in the `head`) their values as you please
 
 
 ## Goals
-
 - [ ] Applying your knowledge of Javascript.
 - [ ] Applying your techskills to recognize similarities and differences.
 - [ ] Learning to code PHP

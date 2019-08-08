@@ -61,19 +61,11 @@
 </section>
 
 <script>
-
-
-
-
-
-
     // Executables
     // ===========
     changeImage(document.getElementById("header"));
     loopWhile(strings);
     createUsername("Rafael Lambelin Selene Nijst");
-
-
 
 
     // ====================================================================
@@ -119,7 +111,6 @@
             collection = [name]
         }
 
-
         for (let i = 0; i < collection.length; i++) {
             collection[i] = collection[i].split("");
             for (let ii = 0; ii < collection[i].length/2; ii++) {
@@ -128,7 +119,6 @@
             }
             collection[i] = collection[i].join("");
         }
-
 
         let holder = document.getElementById("username-generator"),
             p = document.createElement("p");
