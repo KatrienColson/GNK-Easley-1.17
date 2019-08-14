@@ -11,10 +11,10 @@ Good luck :)
 New chapter, new repository !
 
 Create a repository called `learning-php`, in the repository, should be:
-- A `readme.md`
-- A folder called `exercises`
-- An `index.html`
-- An `assets` folder
+- A **readme.md** `(the main readme for your repository)`
+- A folder called **exercises** `(to put all the exercise folders in)`
+- An **index.html** `(for the published version of your repository)`
+- A folder called **resources** `(for any resources of your published version of the repository)`
 
 Every exercise we do, will have a `repository-folder` in it's header table of it's readme. This folder is one that you create, to put
 all the exercise's files in. For example an exercise says in the header table:
