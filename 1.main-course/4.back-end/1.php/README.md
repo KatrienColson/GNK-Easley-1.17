@@ -28,7 +28,7 @@ Then you are supposed to have the following structure:
 - exercises **(folder)**
     - 1.javascript-to-php **(exercise folder)**
         - Files and folders as requested in the readme **(exercise files)**
- 
+    - ... **(other exercise's folders)**
     
 
 
