@@ -5,7 +5,7 @@
 |Challenge type        |`learning challenge`           |
 |Duration              |`~2 days`                      |
 |Deadline              |`13/08/2019 8h59`              |
-|Deployment method     |`GitHub pages`                 |
+|Deployment method     |`N/A`                          |
 |Group composition     |`solo --help each other`       |
 
 

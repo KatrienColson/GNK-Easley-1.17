@@ -16,7 +16,20 @@ Create a repository called `learning-php`, in the repository, should be:
 - An `index.html`
 - An `assets` folder
 
-You can leave these empty for now, until we start with the exercises.
+Every exercise we do, will have a `repository-folder` in it's header table of it's readme. This folder is one that you create, to put
+all the exercise's files in. For example an exercise says in the header table:
+
+|Challenge Parameters  |Challenge Details              |
+|:---------------------|:------------------------------|
+|Repository Folder     |`1.javascript-to-php`          |
+
+Then you are supposed to have the following structure:
+
+- exercises **(folder)**
+    - 1.javascript-to-php **(exercise folder)**
+        - Files and folders as requested in the readme **(exercise files)**
+ 
+    
 
 
 ## Introduction
