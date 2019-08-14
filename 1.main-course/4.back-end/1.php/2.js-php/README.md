@@ -10,9 +10,10 @@
 
 
 ## Exercise / Setup
-Download [`index.html`](./resources/index.html) and [`styles.css`](./resources/styles.css), 
-create `index.php` and copy index.html's content into it, then open that in your browser / on your server.
-Once opened, read and try to understand what the javascript code does, then write the same functionality in `PHP`.
+Create `index.php` and copy the content from [`index.html`](./resources/index.html).<br/>
+Download [`styles.css`](./resources/styles.css) along with it and open the index file on your server.
+
+Once opened, read and try to understand what the javascript code does. Then try to write the same functionality in `PHP`.<br/>
 Don't try to copy line by line and convert the syntax, this kind of conversion requires some out of the box thinking ! ;)
 
 
