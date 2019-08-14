@@ -58,8 +58,8 @@ then print the joke (or message) on the page
 
  
 ## Goals
-- [ ] Understand what `SUPERGLOBALS` are 
-- [ ] Understand how forms work
-- [ ] Learn about `$_COOKIE`, `$_POST`, `$_GET`, understand their differences
-- [ ] Learn to interact between Javascript & PHP
-- [ ] Understand what `method` and `action` do on form elements
+- [ ] Understand what `SUPERGLOBALS` are. 
+- [ ] Understand how forms work.
+- [ ] Learn about `$_COOKIE`, `$_POST`, `$_GET`, understand their differences.
+- [ ] Learn to interact between Javascript & PHP.
+- [ ] Understand what `method` and `action` do on form elements.

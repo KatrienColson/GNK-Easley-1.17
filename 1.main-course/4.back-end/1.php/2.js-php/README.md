@@ -9,10 +9,11 @@
 |Group composition     |`solo --help each other`       |
 
 
-## Exercise
-Download [`index.html`](./resources/index.html) and [`styles.css`](./resources/styles.css), open these in your browser / on your server.
+## Exercise / Setup
+Download [`index.html`](./resources/index.html) and [`styles.css`](./resources/styles.css), 
+create `index.php` and copy index.html's content into it, then open that in your browser / on your server.
 Once opened, read and try to understand what the javascript code does, then write the same functionality in `PHP`.
-Don't try to copy line by line and convert the syntax, this kind of conversion required some out of the box thinking ! ;)
+Don't try to copy line by line and convert the syntax, this kind of conversion requires some out of the box thinking ! ;)
 
 
 ### Rules of the game
@@ -32,6 +33,6 @@ Don't try to copy line by line and convert the syntax, this kind of conversion r
 ## Goals
 - [ ] Applying your knowledge of Javascript.
 - [ ] Applying your techskills to recognize similarities and differences.
-- [ ] Learning to code PHP
+- [ ] Learning to code PHP (base syntax understanding).
 - [ ] Understanding the general workflow when interacting with HTML from PHP.
 - [ ] Learning where to look when starting on a completely new topic.
