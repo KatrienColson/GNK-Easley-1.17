@@ -4,7 +4,7 @@
 |:---------------------|:------------------------------|
 |Repository Folder     |`3.debugging`                  |
 |Challenge type        |`learning challenge`           |
-|Duration              |`1 day`                        |
+|Duration              |`~2 day`                       |
 |Deadline              |`21/08/2019 8h59`              |
 |Deployment method     |`N/A`                          |
 |Group composition     |`solo --help each other`       |
