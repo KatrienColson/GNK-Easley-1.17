@@ -19,7 +19,7 @@ This is what I feel like doing when coding `PHP` that doesn't mean that this sho
 
 
 ### Exercise:
-Open up the [resources/index.php](index.php) file, read the comments, fix the code blocks as requested in the comments
+Open up the [index.php](resources/index.php) file, read the comments, fix the code blocks as requested in the comments
 and put the final file in the repository folder as requested.
 
 ### Bonus Exercise:
