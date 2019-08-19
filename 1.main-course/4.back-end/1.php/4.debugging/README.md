@@ -24,7 +24,7 @@ and put the final file in the repository folder as requested.
 
 ### Bonus Exercise:
 If you feel up for the challenge and you want to test your bug fixing skills, 
-go to [stackoverflow](stackoverflow.com), create a profile for yourself and look up a subject your comfortable with.
+go to [stackoverflow](https://stackoverflow.com), create a profile for yourself and look up a subject your comfortable with.
 
 Then, try to fix at least three issues on there for people.
 
