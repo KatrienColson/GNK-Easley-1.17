@@ -22,7 +22,7 @@ Let's look at some of the things we can use the terminal for ***(in Ubuntu or an
 
 ## Exercises
 These exercises are meant to be done alone, think about what you do, how you do it and what you can learn from 
-completing the individual challenges. A quiz will be done afterwards.
+completing the individual challenges.
 
 
 ### Exercise 1: 
