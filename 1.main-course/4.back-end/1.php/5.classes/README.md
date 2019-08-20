@@ -4,8 +4,8 @@
 |:---------------------|:------------------------------|
 |Repository Folder     |`4.classes`                    |
 |Challenge type        |`learning challenge`           |
-|Duration              |`~2 day`                       |
-|Deadline              |`21/08/2019 8h59`              |
+|Duration              |`~3 days`                      |
+|Deadline              |`26/08/2019 8h59`              |
 |Deployment method     |`N/A`                          |
 |Group composition     |`solo --help each other`       |
 
