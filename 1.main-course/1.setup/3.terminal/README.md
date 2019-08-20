@@ -12,8 +12,11 @@
 
 ## Instructions
 Did you know you can do a lot of awesome stuff with the terminal ? 
-For example, all Ubuntu users, type: `telnet towel.blinkenlights.nl`, press enter, sit back and
-enjoy the show!
+For example, all Ubuntu users, type: 
+````
+telnet towel.blinkenlights.nl
+````
+Press enter, sit back and enjoy the show!
 
 Let's look at some of the things we can use the terminal for ***(in Ubuntu or any other Ubuntu based OS'es)***
 
