@@ -11,35 +11,20 @@
 
 
 
-## Goals
-
-After this chapter, you should have acquired the following technical competencies/skills:
-
-**Practical**
-
-- [ ] Able to use markdown syntax.
-- [ ] Able to write professional `README.md`'s.
-- [ ] Understand the utility of `README.md`'s.
-
 
 
 ## What is markdown?
-
 > Markdown is a lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
 
 
 ## Exercises
 
-
-
 ### Exercise 1
-
 Look up or make a cheatsheet with the most-used Markdown syntax. Compare this with the other people at your table. Shortly discuss the pro's and cons of the different cheatsheets, and then pick one you would like to use.
 
 
 ### Exercise 2
-
 This will be a group exercise (steps below)! In short, we are going to make a repository (project), and have different people work on it!
 
 * **Step 1**  
@@ -77,3 +62,11 @@ Repeat step 6 & 7 until every `README.md` contains 5 questions and answers!
 - [Google](https://www.google.com/)
 - [Github's guide on Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Online Markdown preview](https://stackedit.io/app#)
+
+
+## Goals
+
+- [ ] Able to use markdown syntax.
+- [ ] Able to write professional `README.md`'s.
+- [ ] Understand the utility of `README.md`'s.
+

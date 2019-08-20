@@ -4,8 +4,8 @@
 |:---------------------|:------------------------------|
 |Repository            |`N/A`                          |
 |Challenge type        |`learning challenge`           |
-|Duration              |`1.5 Days`                     |
-|Deadline              |`24/05/2019`                   |
+|Duration              |`1 Day`                        |
+|Deadline              |`06/09/2019`                   |
 |Deployment method     |`N/A`                          |
 |Group composition     |`solo - help eachother`        |
 
