@@ -19,6 +19,11 @@ window act like it **is** a terminal.
 1. Follow the instructions step by step: commit & push at the end of every step.
 1. Create `terminal.php` & `index.php`
 
+### Objectives:
+Choose which version you want to try:
+- **Fully explained:** These instructions are fully laid out, so you can follow step by step what to do
+- **OG Objectives:** These instructions are more towards a realistic explanation of a project like this, this requires some thinking to be done by you
+
 **<details><summary>Fully explained instructions</summary>**
 
 ### Objectives
@@ -40,7 +45,6 @@ window act like it **is** a terminal.
     
 </details>
 
-
 **<details><summary>OG Objectives</summary>**
 
 ### Objectives
@@ -55,6 +59,12 @@ window act like it **is** a terminal.
 1. Make sure a text cursor is constantly blinking on the page
 
 </details>
+
+<hr/>
+
+**Finish the objectives, before continuing with the bonus objectives!**
+<br/>
+
 
 ### Bonus objectives
 1. Whatever happens when you press the up arrow in the terminal, should happen in the browser as well
