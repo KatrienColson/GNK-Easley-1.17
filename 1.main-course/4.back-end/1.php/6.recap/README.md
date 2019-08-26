@@ -91,6 +91,8 @@ this way you know for sure at the end of this exercise, you will have good code,
 1. Whatever happens when you press the up arrow in the terminal, should happen in the browser as well
 1. Disable CTRL-V in javascript, only SHIFT-INSERT should work
 1. Use `AJAX` instead of a post request so the page does not need to reload every time you enter a command
+
+***And finally a fun final objective for the hardcore developers!*** :ok_hand: 
 1. Add the following functionality whenever someone starts a command with `sudo`:
     - Ask for a password to run the command
     - If this is the first time the user does it:
@@ -102,7 +104,9 @@ this way you know for sure at the end of this exercise, you will have good code,
     - If not:
         - Display wrong password message
         - Let user retype password (for up to three times)
+        - If they fail three times in a row, lock sudo commands for 5 minutes (also give feedback about it being locked if the user tries to use them)
     - If yes: 
         - Execute command
+        - Put sudo in an unlocked state for 5 minutes (a.k.a. you don't need password to sudo for 5 minutes)
         
 [Go back](../)
