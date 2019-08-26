@@ -12,10 +12,9 @@
 ## Introduction
 
 ### Setup
-1. Create a repository `Blackjack`
+1. At the end of the exercise create a repository `Blackjack` and push all your (final) files in there.
 1. Follow the instructions step by step: commit & push at the end of every step.
-1. When the instruction starts with README, write what’s asked in the README of your repository.
-1. Create home.php.
+1. Create home.php
 
 ### Blackjack Rules
 - Cards are between 1-11 points.
