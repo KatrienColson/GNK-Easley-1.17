@@ -5,7 +5,7 @@
 |Repository Folder     |`5.terminal`                   |
 |Challenge type        |`recap challenge`              |
 |Duration              |`~3 days`                      |
-|Deadline              |`29/08/2019 8h59`              |
+|Deadline              |`30/08/2019 15h00`             |
 |Deployment method     |`N/A`                          |
 |Group composition     |`solo --help each other`       |
 
@@ -24,25 +24,46 @@ Choose which version you want to try:
 - **Fully explained:** These instructions are fully laid out, so you can follow step by step what to do
 - **OG Objectives:** These instructions are more towards a realistic explanation of a project like this, this requires some thinking to be done by you
 
+I suggest that you try to challenge yourself at first and when you feel like you are stuck you can switch to the more throughly explained instructions, 
+this way you know for sure at the end of this exercise, you will have good code, in a good structure. **Good luck!** :panda_face:  
 **<details><summary>Fully explained instructions</summary>**
 
 ### Objectives
 1. On `index.php` create a form with an input field
-1. Use your awesome css skills, to make the whole screen look like a terminal
+1. Use javascript to submit the form when the 'enter' key is pressed and send the input field over a `POST` request
+1. Use javascript to empty the input field and add the command above the input field (like in a terminal), on the same enter keypress
+1. Use your awesome css skills, to make the whole screen look like a terminal:
+    - Background-color
+    - Font family: consolas
+    - White, grey, green, ... text color
+    - full width full height
+    - Look at your terminal to see any other details
+1. Make sure their is a blinking cursor at the end of the input field
 1. Create a class called `terminal` in the file `terminal.php`
-1. Try to create a schematic of what the `terminal` class should be able to do 
-1. Use javascript to submit the form when the 'enter' key is pressed
-1. When a line of code is sent to `PHP` (with `POST`), make sure the following happens:
-    - The line of code gets 'executed' (make up for yourself what commands exist and what they do)
-    - The return message from executing the command gets saved (and echo'ed)
-    - The line of code gets appended to the history of executed commands
-    - The history gets saved to the `$_COOKIE` variable so the page always looks the same on reload
-1. Next to that, make sure that:
-    - The design makes it look like a terminal
-    - It reacts like a terminal (for example, when new line requires a scroll, it does it automatically , without animation)
-    - You can't make out the input field
-    - A text cursor is constantly blinking
-    
+1. Try to create a schematic of what the `terminal` class should have in form of properties and methods 
+
+#### Structure of the class
+1. Give the class the following:
+    - A property called: **commands**, which contains an array with all known commands `[6548 => "command", 8794 => "command", 1267 => "command", ...]`
+    - A property called: **responses**, which contains an array with all responses for all commands `[6548 => "response for command #6548", ...]`
+    - A property called: **history**, which contains an array with all commands and responses formulated as such `["command" => "response", ...]`
+    - A method that gets the command as a parameter and returns the appropriate response (if applicable, after executing the command)
+    - A method that adds the current command-response combo to the list of previous commands (history) and saves / updates the list in the `$_COOKIE` global
+
+#### Structure of `index.php`
+***NOTE: Do the following at the top of the page!!***
+1. Check if a command has been executed or if this is first load
+1. If a command has been executed:
+    - Get it from `$_POST`
+    - Execute the class method that executes the command
+    - Either make sure that first class method also saves the command, or execute the second method
+    - Save the returned result of the command in a variable
+    - Save the full history of the terminal (taken from the class) in a variable
+
+***NOTE: Do the following at the right location in your HTML***
+- Echo the history of previous commands and their responses
+- Echo the current command and it's response
+-  Make sure after all of this, that the input field is below all the previous lines of code and their responses
 </details>
 
 **<details><summary>OG Objectives</summary>**
@@ -53,7 +74,7 @@ Choose which version you want to try:
 1. Create a class called `terminal` in the file `terminal.php`
 1. Use the `terminal` class to:
     - Execute commands
-    - Keep track of past commands
+    - Keep track of the full history (use `$_COOKIE`)
     - Give feedback to commands
     - Save a list of known commands
 1. Make sure a text cursor is constantly blinking on the page
