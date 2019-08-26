@@ -36,9 +36,9 @@ this way you know for sure at the end of this exercise, you will have good code,
     - Background-color
     - Font family: consolas
     - White, grey, green, ... text color
-    - full width full height
     - Look at your terminal to see any other details
 1. Make sure their is a blinking cursor at the end of the input field
+1. Once enough commands have been entered and your input field is close to the bottom of the page, start auto scrolling down and make sure the input field is always visible (scrolling without animation)
 1. Create a class called `terminal` in the file `terminal.php`
 1. Try to create a schematic of what the `terminal` class should have in form of properties and methods 
 
