@@ -19,10 +19,7 @@ window act like it **is** a terminal.
 1. Follow the instructions step by step: commit & push at the end of every step.
 1. Create `terminal.php` & `index.php`
 
-# <details><summary>Fully explained instructions</summary>
-
-
-
+**<details><summary>Fully explained instructions</summary>**
 
 ### Objectives
 1. On `index.php` create a form with an input field
@@ -41,11 +38,10 @@ window act like it **is** a terminal.
     - You can't make out the input field
     - A text cursor is constantly blinking
     
-
 </details>
 
 
-# <details><summary>OG Objectives</summary>
+**<details><summary>OG Objectives</summary>**
 
 ### Objectives
 1. On `index.php` emulate a terminal
@@ -57,6 +53,7 @@ window act like it **is** a terminal.
     - Give feedback to commands
     - Save a list of known commands
 1. Make sure a text cursor is constantly blinking on the page
+
 </details>
 
 ### Bonus objectives
