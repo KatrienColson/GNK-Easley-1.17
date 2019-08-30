@@ -54,15 +54,14 @@ Some of you might have done this already, you can check by going to one of the f
     - `github` ***(same)***
     - `email` 
     - `preferred_language` ***(use the `ISO 639-1` Codes, you can find them [here](https://www.constitution.org/lg/languagecode.html)***
-<!--    - `belikebill` ***(You have to get a picture from [here](https://www.belikebill.ga/), fill in your details and generate a fun picture.-->
-<!--Then upload it anywhere and enter the URL of the picture in the `avatar` column)***  -->
     - `avatar` ***(a fun picture of yourself or something you want to use as an avatar)***
     - `video` ***(a youtube link to a music video you like)***
     - `quote` ***(a quote you like)***
     - `quote_author` ***(person who made the quote)***
     - `created_at` **(auto fills in the timestamp when you create an entry, lookup how to do this, hint:look for this column name)**
 
-
+<!--    - `belikebill` ***(You have to get a picture from [here](https://www.belikebill.ga/), fill in your details and generate a fun picture.-->
+<!--Then upload it anywhere and enter the URL of the picture in the `avatar` column)***  -->
 
 ### Step 2: Connect to the database
 Enter the following code into `connection.php`:
