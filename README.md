@@ -32,13 +32,11 @@ Note: If you are unsure about something, ask your coach!
 The 'main course' will be the largest part of your educational journey at BeCode. It will mostly focus on teaching you the relevant hard & soft skills necessary to become a Junior Web Developer.
 
 <details>
-<summary style='color:#f03c15'>Click to expand / collapse! (`add everything that your juniors will learn`)</summary>
+<summary style='color:#f03c15'>Click to expand / collapse!</summary>
 
 1. [Setup](./1.main-course/1.setup)
-    * [Ubuntu](./1.main-course/1.setup/1.ubuntu/README.md)
     * [Google](./1.main-course/1.setup/2.google/README.md)
     * [Terminal](./1.main-course/1.setup/3.terminal/README.md)
-    * [IDE](./1.main-course/1.setup/4.ide/README.md)
     * [Git](./1.main-course/1.setup/5.git/README.md)
 2. [Markup](./1.main-course/2.markup)
     * [Markdown](./1.main-course/2.markup/1.markdown/README.md)
@@ -78,21 +76,14 @@ The 'main course' will be the largest part of your educational journey at BeCode
 ## Optional challenges
 
 Some people want to challenge themselves after learning a new subject... Well that's what these challenges are for!
-
-* [``optional challenges``](./2.optional-challenges)
-* [``optional challenges``](./2.optional-challenges)
-
-* ...
+You can find them [here](./2.optional-challenges)!
 
 *Note: These exercises are not mandatory!*
 
 
 ## Work from home days
 
-Occasionally, you might be given a "Work From Home Day". On those days, you'll be expected to work on an assignment at home. Those assignments will be published here:
-
-1. [EXAMPLE]()
-1. ...
+Occasionally, you might be given a "Work From Home Day". On those days, you'll be expected to work on an assignment at home. Those assignments will be published [here](./1.main-course/6.work-from-home).
 
 ## Techtalks
 
