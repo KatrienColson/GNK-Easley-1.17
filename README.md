@@ -15,8 +15,8 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 ## Calendar
 
 Add a calendar here for special events that affect the juniors.
-- [Example General](https://calendar.google.com/calendar/embed?src=81u6evmbrf8m97nk0l8ttlrlg0%40group.calendar.google.com&ctz=Europe%2FBrussels)
-- [Example Junior Workshops]()
+- [BeCode Genk General](https://calendar.google.com/calendar?cid=YmVjb2RlLm9yZ19pNmpoNnYxMWMycWVjcnZoampwYmgxN29jNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- [BeCode Genk Junior Workshops](https://calendar.google.com/calendar?cid=YmVjb2RlLm9yZ183bzJnc3ZlZG52aWRzYnB0Z24xM3MwNzVmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 <br>
 
@@ -60,13 +60,13 @@ The 'main course' will be the largest part of your educational journey at BeCode
     * [PHP](./1.main-course/4.back-end/1.php)
     * [C#](./1.main-course/4.back-end/2.c#)
     * [.NET](./1.main-course/4.back-end/3..net)
-5. [Specialization]
-    *[Js-Framework](./1.main-course/5.specialization/1.js-framework)
-    *[PHP-Framework](./1.main-course/5.specialization/2.php-framework)
-    *[Node.js](./1.main-course/5.specialization/3.node.js)
-    *[python](./1.main-course/5.specialization/4.python)
-    *[JQuery](./1.main-course/5.specialization/5.jquery)
-    *[VUE.js](./1.main-course/5.specialization/6.vue)
+5. [Specialization](./1.main-course/5.specialization)
+    * [Js-Framework](./1.main-course/5.specialization/1.js-framework)
+    * [PHP-Framework](./1.main-course/5.specialization/2.php-framework)
+    * [Node.js](./1.main-course/5.specialization/3.node.js)
+    * [python](./1.main-course/5.specialization/4.python)
+    * [JQuery](./1.main-course/5.specialization/5.jquery)
+    * [VUE.js](./1.main-course/5.specialization/6.vue)
 </details>
 
 <br>
