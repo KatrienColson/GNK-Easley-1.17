@@ -123,5 +123,5 @@ Repeat step 6 & 7 until every `README.md` contains 5 questions and answers!
 ## Conclusion
 
 <p align="center"> 
-    <img src="./assets/in-case-of-fire.jpg" alt="GIT OUT!">
+    <img src="./resources/in-case-of-fire.jpg" alt="GIT OUT!">
 </p>
