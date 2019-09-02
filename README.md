@@ -20,18 +20,10 @@ Add a calendar here for special events that affect the juniors.
 
 <br>
 
-## Rules
+## Rules & important documents
 
-Like any ~~dictatorial~~ institution, there are some rules we expect you to follow. They help us create an enjoyable and professional work environment. The most important rules, you can find [here]().
-
-*Note: This is not an exhaustive list. If you are unsure about something, ask your coach!*
-
-<br>
-
-## Important documents
-
-Well... sometimes it's really just in the name. [Here](./important-documents/) you can find the generally important documents that you might need!
-
+Everything regarding our rules and essential documents can be found [here](./4.important).  
+Note: If you are unsure about something, ask your coach!
 
 <br>
 
