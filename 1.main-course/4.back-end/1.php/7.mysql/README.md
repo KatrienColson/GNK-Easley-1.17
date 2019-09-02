@@ -97,7 +97,9 @@ function closeConnection($conn) {
 - Include the `connection.php` file in both, but make sure your `PHP` code won't run if the connection file isn't included
 - Create a form that allows you to fill in the table with your data in `insert.php`
 - Make sure your form requires every column of the table to be filled
-- Test by inserting your data, if it works, continue to step 4
+- Test by inserting your data
+- Check phpmyadmin to see if all your data is correctly entered into the database
+
 
 ### Step 4:
 > **WARNING: If you continue to this step and your code is buggy/not functional, you will tamper with online resources which will affect everyone. So test your code for bugs!**
@@ -126,11 +128,8 @@ follow these instructions:
     - Their last name
     - Their email
     - Their preferred language (in the form of an icon (flag))
-    - A link to their personal page (`profile.php?user=$user_id`)
+    - A link to their personal page (`profile.php?user=$user_id`) (the link can also be, on their name or any other column you prefer)
 
-
-### Step 6:
-Create `profile.php`, ...
 
     
     
