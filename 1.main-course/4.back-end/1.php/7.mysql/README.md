@@ -147,11 +147,31 @@ So let's make a login / registration system:
 
 - Create a `login.php` file and fill it up with a login form (email/password or username/password)
 - Rename `insert.php` to `register.php` and add a password & password confirmation field to the form
-- 
+- Create a `auth.php` file and write both the login and registration logic in them
+- The registration logic should:
+    - Check if the email is valid (validate all other fields as well if necessary)
+    - Check if password and password confirm are equal
+    - Hash the password and add it to the database in it's hashed form (**NEVER** store unhashed / unencrypted passwords).
+    - If the registration fails, go back to the previous form, fill in all the previously filled in data (except the passwords) and show an error on the correct field
+    - If the registration succeeds, go to `profile.php` and show the user's own profile.
+- The login logic should:
+    - Check if the filled in username / email can find a user with that credential
+    - Check if the hashed database password, can be matched to the newly hashed (filled in) password
+    - If not, go back to the login page, giving an error (**WATCH OUT:** never say whether the password or the username/email was incorrect, always say either one of them could be wrong) 
+    - If it's correct, move to the `index.php` page
+- Now, obviously we don't want non-logged-in people to see `index.php` with all our data, so protect `index.php` so that it checks for the user's login status and redirects to `login.php` when not logged in.
 
 
 
-### Step 7: 
+### Step 8:
+So now that authentication is out of the way, we want to give the user's right to edit, though obviously we only want them to edit or remove their own profiles.
+
+- On `profile.php` check if the logged in user's ID equals that of the one requested on the profile page, if so, show edit and delete buttons somewhere on the page.
+- When those buttons are clicked, again your code should check whether this person has the rights to do the delete / edit action before executing it
+- Obviously once executed, the edit action goes back to the profile, delete action, should go back to register page 
+
+> This way, we eliminate any and all means of `hacking` our code
+
 
 
     
