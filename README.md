@@ -35,10 +35,10 @@ The 'main course' will be the largest part of your educational journey at BeCode
 <summary style='color:#f03c15'>Click to expand / collapse!</summary>
 
 1. [Setup](./1.main-course/1.setup)
-    * [Google](./1.main-course/1.setup/2.google/README.md)
-    * [Terminal](./1.main-course/1.setup/3.terminal/README.md)
-    * [Markdown](./1.main-course/1.setup/4.markdown/README.md)
-    * [Git](./1.main-course/1.setup/5.git/README.md)
+    * [Google](./1.main-course/1.setup/1.google/README.md)
+    * [Terminal](./1.main-course/1.setup/2.terminal/README.md)
+    * [Markdown](./1.main-course/1.setup/3.markdown/README.md)
+    * [Git](./1.main-course/1.setup/4.git/README.md)
 2. [Markup](./1.main-course/2.markup)
     * [HTML](./1.main-course/2.markup/2.html/README.md)
     * [CSS](./1.main-course/2.markup/3.css/README.md)
