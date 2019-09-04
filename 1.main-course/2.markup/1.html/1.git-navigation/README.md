@@ -16,9 +16,10 @@ We're going to make an `HTML` file that will allow us to navigate through all ou
 
 ## Exercise
 1. Add an `index.html` file to the root folder of your repository (the root folder is not one you create, it's the main folder)
-1. Change your github publishing settings to point to this folder.
-1. Add a list of links to the different exercise's folders, so you can easily navigate to the published version of any of your future exercises
-1. You can already add the future folders / files of the exercises so they will all be automatically accessible as well
+1. Change your github publishing settings to point to this file.
+1. Google or [Hoehel](https://hoehel.be/) how you can make links and lists in HTML.
+1. Then make a list of links, that point to the different exercise's folders. (this way you can easily navigate to the published version of your exercise's files) 
+1. You can already add the future folders / files of the exercises so they will all be automatically accessible as well. (bonus)
 
 
 ## Goals

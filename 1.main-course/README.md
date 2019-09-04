@@ -29,7 +29,7 @@ Then you are supposed to have the following structure:
     - ... **(other exercise's folders)**
     
 
-
+Make sure you set this up before continuing on the exercises
 
 
 

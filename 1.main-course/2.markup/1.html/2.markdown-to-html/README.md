@@ -27,9 +27,8 @@
 
 
 ### Step 2: Publishing on GitHub pages
+Make sure your exercise's folder is added to the navigation page's list of links
 
-1. Google how to publish a page on GitHub. 
-1. Publish your page on GitHub. (Make sure your file names are correct!)
 
 
 ### Step 3: Audit yourself (bonus)
@@ -50,7 +49,6 @@ Look up some new/more advanced things you can integrate in your first "website".
 After this chapter, you should have acquired the following skills/competencies:
 
 - [ ] Able to write some simple HTML.
-- [ ] Able to publish a page on GitHub.
 - [ ] Able to challenge yourself.
 
 <p align="center">
