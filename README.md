@@ -53,7 +53,7 @@ The 'main course' will be the largest part of your educational journey at BeCode
         * [Functions](./1.main-course/3.front-end/1.javascript/5.functions/README.md)
         * [Arrays](./1.main-course/3.front-end/1.javascript/6.arrays/README.md)
         * [Objects](./1.main-course/3.front-end/1.javascript/7.objects/README.md)
-    *[Bootstrap](./1.main-course/3.front-end/2.bootstrap/README.md)
+    * [Bootstrap](./1.main-course/3.front-end/2.bootstrap/README.md)
 4. [Back-end](./1.main-course/4.back-end)
     * [PHP](./1.main-course/4.back-end/1.php)
     * [C#](./1.main-course/4.back-end/2.c#)

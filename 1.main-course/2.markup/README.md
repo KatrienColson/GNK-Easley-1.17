@@ -30,10 +30,10 @@ internship options and companies, to showcase them your skills.
 
 
 ## Goals
-- [ ] Understand how you can make a webpage from start to finish
-- [ ] Know what HTML, CSS, SASS are and what they do
-- [ ] Be able to code most things in these languages without having to look up everything
-- [ ] Master the individual goals in the individual exercises
+- [ ] Understand how you can make a webpage from start to finish.
+- [ ] Know what HTML, CSS, SASS are and what they do.
+- [ ] Be able to code most things in these languages without having to look up everything.
+- [ ] Master the individual goals in the individual exercises.
 
 You did all of this? Congrats ! You are a beginner web designer now ! :unicorn: <br/>
 Now let start making you a junior frontend web developer, shall we ? :fist_right: :fist_left:  

@@ -1,6 +1,8 @@
-![](./resources/comingsoon-becode.png)
+# HTML
 
-## We are still working on this section. Please move back to the previous exercises.
-Are you finished with those? Why not have a look at our [``optional challenges``](./../../../2.optional-challenges)?
+## Exercises
 
-You could always do more research about a previous subject.
+### Markdown to HTML
+Try to convert your previous exercise's markdown to HTML!
+Read [here](./1.markdown-to-html/).
+
