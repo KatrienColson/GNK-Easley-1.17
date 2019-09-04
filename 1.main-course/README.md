@@ -10,8 +10,8 @@ Create a repository with the name of the chapter you're working on prepended by 
 
 The repository should have the following files / folders:
 - A **readme.md** `(the main readme for your repository)`
-- A folder called **exercises** `(to put all the exercise folders in)`
-    - A folder for every chapter, which contains the actual exercise folders
+- A folder called **exercises** `(to put all the chapter folders in)`
+    - A folder for every chapter `(to put all the chapter folders in)`
 - An **index.html** `(for the published version of your repository's navigation page)`
 - A folder called **resources** `(for any resources of your published version of the repository)`
 
