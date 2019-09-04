@@ -2,7 +2,11 @@
 
 ## Exercises
 
+### Git navigation
+Let's make a list of links to all our exercises in our repository.
+This way we can see the inventory of our repository easily and navigate it without having to look up
+any url's. Read it [here](./1.git-navigation)
+
 ### Markdown to HTML
 Try to convert your previous exercise's markdown to HTML!
-Read [here](./1.markdown-to-html/).
-
+Read [here](./2.markdown-to-html/).
