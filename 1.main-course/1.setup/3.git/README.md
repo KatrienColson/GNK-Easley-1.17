@@ -5,7 +5,7 @@
 |Repository            |`N/A`                          |
 |Challenge type        |`learning challenge`           |
 |Duration              |`1 Day`                        |
-|Deadline              |`06/09/2019`                   |
+|Deadline              |`05/09/2019`                   |
 |Deployment method     |`N/A`                          |
 |Group composition     |`solo - help eachother`        |
 
@@ -54,6 +54,10 @@ sudo apt install git
 ```
 
 ***Congratulations!** Git is now installed, wasn't that easy?*
+
+### Instructions (Windows & Mac)
+Go to [git-scm](https://git-scm.com/downloads) and download the tool for your OS.
+Choose all default installation options & finish the installation process.
 
 
 
