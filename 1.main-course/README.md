@@ -11,6 +11,7 @@ Create a repository with the name of the chapter you're working on prepended by 
 The repository should have the following files / folders:
 - A **readme.md** `(the main readme for your repository)`
 - A folder called **exercises** `(to put all the exercise folders in)`
+    - A folder for every chapter, which contains the actual exercise folders
 - An **index.html** `(for the published version of your repository's navigation page)`
 - A folder called **resources** `(for any resources of your published version of the repository)`
 
@@ -24,10 +25,11 @@ all the exercise's files in. For example an exercise says in the header table:
 Then you are supposed to have the following structure:
 
 - exercises **(folder)**
-    - 1.javascript-to-php **(exercise folder)**
-        - Files and folders as requested in the readme **(exercise files)**
-    - ... **(other exercise's folders)**
-    
+    - php **(chapter folder)**
+        - 1.javascript-to-php **(exercise folder)**
+            - Files and folders as requested in the readme **(exercise files)**
+        - ... **(other exercise's folders)**
+        
 
 Make sure you set this up before continuing on the exercises
 

@@ -1,7 +1,6 @@
 # HTML
 
 ## Exercises
-
 ### Git navigation
 Let's make a list of links to all our exercises in our repository.
 This way we can see the inventory of our repository easily and navigate it without having to look up
