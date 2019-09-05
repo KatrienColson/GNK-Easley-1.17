@@ -19,7 +19,6 @@ We're going to make an `HTML` file that will allow us to navigate through all ou
 1. Change your github publishing settings to point to this file.
 1. Google or [Hoehel](https://hoehel.be/) how you can make links and lists in HTML.
 1. Then make a list of links, that point to the different exercise's folders. (this way you can easily navigate to the published version of your exercise's files) 
-1. You can already add the future folders / files of the exercises so they will all be automatically accessible as well. (bonus)
 
 
 ## Goals
