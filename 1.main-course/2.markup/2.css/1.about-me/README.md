@@ -148,7 +148,7 @@ When we select a icon the link should open in a new tab.
 
 <br>
 
-### Optimzation:
+### Optimization:
 
 Load your html file into lighthouse.
 Look at the scores and read the feedback, optimize the website so that your scores are as high as possible.
