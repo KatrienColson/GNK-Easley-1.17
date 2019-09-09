@@ -5,7 +5,7 @@
 |Repository folder     |`1.about-me`                   |
 |Challenge type        |`learning challenge`           |
 |Duration              |`1.5 day`                      |
-|Deadline              | `11/09/19`                    |
+|Deadline              | `11/09/19 13h30`              |
 |Deployment method     |`GitHub pages`                 |
 |Group composition     |`solo`                         |
 
