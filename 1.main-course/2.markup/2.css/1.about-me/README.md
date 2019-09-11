@@ -4,7 +4,7 @@
 |:---------------------|:------------------------------|
 |Repository folder     |`1.about-me`                   |
 |Challenge type        |`learning challenge`           |
-|Duration              |`1.5 day`                      |
+|Duration              |`1 day`                        |
 |Deadline              | `11/09/19`                    |
 |Deployment method     |`GitHub pages`                 |
 |Group composition     |`solo`                         |
@@ -45,6 +45,7 @@ This quote should have a very light grey color, use a **hex** color for this.
 
 #### Step 2:  
 Add a background image to the `<header>` and make sure the header's height is the same size as your *view height*.
+The background image should cover the whole header. (no repeat)
 
 #### Step 3:  
 Make the image darker, so that it fits with the text.
@@ -133,7 +134,7 @@ Create a `<footer>` and give it a height of 150px.
 Create a `<ul>` with the following sturcture `<ul>` -> `<li>` -> `<i>`. Center this in the footer.
 
 #### Step 3: 
-Add icons that contain the URLs. And make sure that they are spread in a width of 400px.
+Add icons (from [fontawesome](https://fontawesome.com/?from=io) for example) that contain the URLs. And make sure that they are spread in a width of 400px.
 
 #### Step 4:
 Animate the icons color on hover.
@@ -148,7 +149,7 @@ When we select a icon the link should open in a new tab.
 
 <br>
 
-### Optimzation:
+### Optimization:
 
 Load your html file into lighthouse.
 Look at the scores and read the feedback, optimize the website so that your scores are as high as possible.
