@@ -2,7 +2,7 @@
 
 |Challenge Parameters  |Challenge Details              |
 |:---------------------|:------------------------------|
-|Repository            |`flexbox-minefield`            |
+|Repository            |`2.flexbox-minefield`          |
 |Challenge type        |`learning challenge`           |
 |Duration              |`1 day`                        |
 |Deadline              |`12/09/2019 09h00`             |
