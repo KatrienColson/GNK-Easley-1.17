@@ -22,7 +22,6 @@ Add a row with letters above the chessboard, and a column with numbers next to t
 **Step 3**  
 Adjust your HTML and CSS so that you can move the chess pieces to different locations by changing only the `grid-area`.
 
-Check with [Ben](https://www.linkedin.com/in/ben-duw%C3%A9-69776bb2/) on how to do grid with words instead of numbers!
 
 ```CSS
 #white-queen {
