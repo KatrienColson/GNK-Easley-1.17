@@ -10,4 +10,5 @@ Create the popular minesweeper game with just the help of css and html! Learn ab
 Read it [here](./2.flexbox).
 
 ### 3.Chess board
-Coming soon...
+During this fun exercise, you will learn everything about the grid system within css.
+Read it [here](./3.grid).
