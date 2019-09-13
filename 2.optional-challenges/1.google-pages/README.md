@@ -1,4 +1,4 @@
-# Challenge: Goolge pages
+# Challenge: Google pages
 
 |Challenge Parameters  |Challenge Details              |
 |:---------------------|:------------------------------|
