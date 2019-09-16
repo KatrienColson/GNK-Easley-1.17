@@ -64,6 +64,6 @@ Create the website!
 
 - [ ] Increasing your knowledge of HTML.
 - [ ] Increasing your knowledge of CSS.
-- [ ] Learning the basics of grid.
+- [ ] Learning the basics of flexbox.
 - [ ] Learning the power of teamwork.
 - [ ] Learn to deal with obstacles.
