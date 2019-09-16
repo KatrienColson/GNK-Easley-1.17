@@ -18,6 +18,7 @@ The training runs from Monday to Friday, from 9h00 - 17h00 (you can see the gene
 
 It is important that you have an official document stating the reason for your absence (e.g. a doctor's note) and that you share it with us through our platform ([my.becode.org](https://my.becode.org/)). These official documents are important for you and us. If you do not have an official document for your absence, your absence will be seen as "playing hooky".
 
+Secondly, whenever you are absent, official reasons or not, let us know **ASAP**, that way we at least know what's up.
 ### Rules for absences
 
 * Inform of your absence *at least* a day in advance!
