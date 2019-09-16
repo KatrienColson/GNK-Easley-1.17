@@ -2,10 +2,10 @@
 
 |Challenge Parameters  |Challenge Details              |
 |:---------------------|:------------------------------|
-|Repository            |`4.responsive webdesign`         |
+|Repository            |`4.responsive webdesign`       |
 |Challenge type        |`learning challenge`           |
 |Duration              |`3 days`                       |
-|Deadline              |`N/A`                          |
+|Deadline              |`19/9/19 09u00`                |
 |Deployment method     |`GitHub pages`                 |
 |Group composition     |`groups of 2`                  |
 
