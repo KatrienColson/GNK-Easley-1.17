@@ -12,3 +12,6 @@ Read it [here](./2.flexbox).
 ### 3.Chess board
 During this fun exercise, you will learn everything about the grid system within css.
 Read it [here](./3.grid).
+
+### 4.WowWee Website
+Teamwork is important, that's why you get this first group assignment! During this assignment you will learn everything about responsive web design. Read it [here](./4.media-queries).
