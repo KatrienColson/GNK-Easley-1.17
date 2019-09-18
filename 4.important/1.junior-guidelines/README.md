@@ -23,7 +23,7 @@ Secondly, whenever you are absent, official reasons or not, let us know **ASAP**
 
 * Inform of your absence *at least* a day in advance!
 * Upload your official documents within the same week.
-* Being absent for silly reasons like collecting post, shopping,ect.. is unacceptable.
+* Being absent for silly reasons like collecting post, shopping, etc.. is unacceptable.
 
 ***Note:** Not following these rules will have consequences!*
 
