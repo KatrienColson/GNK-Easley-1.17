@@ -27,7 +27,7 @@
 |_Friday_   |04-10-2019 |09h05      |                |                                  |
 |**Weekend**|**Weekend**|**Weekend**|**Weekend**     |**Weekend**                       |
 |**Day**    |**Date**   |**Time**   |**Name**        |**Topic**                         |
-|_Monday_   |07-10-2019 |09h05      |                |                                  |
+|_Monday_   |07-10-2019 |09h05      |               |                                  |
 |_Tuesday_  |08-10-2019 |09h05      |                |                                  |
 |_Wednesday_|09-10-2019 |09h05      |                |                                  |
 |_Thursday_ |10-10-2019 |09h05      |                |                                  |
